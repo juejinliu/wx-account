@@ -1,0 +1,22 @@
+.account_cell{
+  padding: 15rpx;
+  height : 100rpx;
+}
+.account_title{
+  display: inline-block;
+  width: 85% ;
+  color: black;
+}
+.account_type{
+  color: red;
+  background-color: lightgray;
+}
+.account_time{
+  display: inline-block;
+  width: 80%;
+}
+.account_line{
+  background-color: lightgray;
+  width: 100%;
+  height: 1rpx;
+}

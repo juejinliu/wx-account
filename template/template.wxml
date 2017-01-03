@@ -1,0 +1,12 @@
+
+<!--首页模板cell-->
+<template name="account_cell">
+    <view class="account_cell">
+        <label class="account_title">{{title}}</label>
+        <label class="account_type">{{type}}</label>
+        <label class="account_time">{{time}}</label>
+        <label class="account_expense">￥{{expense}}</label>
+        <view class="account_line"></view>
+    </view>
+    
+</template>

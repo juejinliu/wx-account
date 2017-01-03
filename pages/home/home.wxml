@@ -1,0 +1,6 @@
+
+<view wx:for="{{accounts}}">
+<template is="account_cell" data="{{...item}}"></template>
+</view>
+
+<import src="../../template/template.wxml">
